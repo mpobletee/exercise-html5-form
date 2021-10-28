@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    border-radius:5px;
+}
+button{
+    margin: 10px;
+}
+
+/* .form-check-input:checked{
+    background-color: ;
+    border-color: ;
+} */
